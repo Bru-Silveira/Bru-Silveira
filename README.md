@@ -1,7 +1,8 @@
 ### Olá, eu sou a Bruna Silveira 👋
 
                                         📊 Analista de Dados Jr 📊
-                                         
+
+![Análise de Dados](https://github.com/Bru-Silveira/meu-readme/blob/main/Capa%20dados.png)
 
 
 
@@ -14,6 +15,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### 📚 Bibliotecas e Frameworks:
 
