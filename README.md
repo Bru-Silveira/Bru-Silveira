@@ -38,7 +38,7 @@
 
 [![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bru-Silveira&show_icons=true&theme=radical)](https://github.com/Bru-Silveira/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bru-Silveira&layout=compact&show_icons=true&theme=radical)](https://github.com/Bru-Silveira/github-readme-stats)
+
 
 
 💛 Apaixonada pela possibilidade de transformar dados em insights valiosos e por aprender continuamente na área de tecnologia.
